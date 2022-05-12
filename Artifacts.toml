@@ -1,0 +1,123 @@
+[[FLTK]]
+arch = "aarch64"
+git-tree-sha1 = "ef7d46ed815f3bf9adfcc1f87c334ae9a29b69e0"
+os = "macos"
+
+    [[FLTK.download]]
+    sha256 = "5ef35a758679b8721f79f21a04fef5a6414bd9897ea7371f81ec2602e0067e23"
+    url = "https://github.com/JuliaBinaryWrappers/FLTK_jll.jl/releases/download/FLTK-v1.3.8+0/FLTK.v1.3.8.aarch64-apple-darwin.tar.gz"
+[[FLTK]]
+arch = "aarch64"
+git-tree-sha1 = "56ffc931637079f15fed57983e68d99624f1ad12"
+libc = "glibc"
+os = "linux"
+
+    [[FLTK.download]]
+    sha256 = "cdbd83e0686fba9feecf5139bdc18d5e3989fa344696b4be56d59b5cb58be159"
+    url = "https://github.com/JuliaBinaryWrappers/FLTK_jll.jl/releases/download/FLTK-v1.3.8+0/FLTK.v1.3.8.aarch64-linux-gnu.tar.gz"
+[[FLTK]]
+arch = "aarch64"
+git-tree-sha1 = "31065b8dba40096e6490f03482b040fb8ce1a1d6"
+libc = "musl"
+os = "linux"
+
+    [[FLTK.download]]
+    sha256 = "cb7e7690f9dc9042224fbf3a2f5fd1d25f3bd6b7ca6abe8d3db7f04b3ccaf018"
+    url = "https://github.com/JuliaBinaryWrappers/FLTK_jll.jl/releases/download/FLTK-v1.3.8+0/FLTK.v1.3.8.aarch64-linux-musl.tar.gz"
+[[FLTK]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "452465ab576cf2b6b3e20a513a07a1205129feb8"
+libc = "glibc"
+os = "linux"
+
+    [[FLTK.download]]
+    sha256 = "6c0c9786c2870479176cf23eebd14439c6816cabe9ca0067e5cecc1a8ac5689c"
+    url = "https://github.com/JuliaBinaryWrappers/FLTK_jll.jl/releases/download/FLTK-v1.3.8+0/FLTK.v1.3.8.armv7l-linux-gnueabihf.tar.gz"
+[[FLTK]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c27743d11b885084889ce0ae3e540b405177b3f5"
+libc = "musl"
+os = "linux"
+
+    [[FLTK.download]]
+    sha256 = "3b0a883e151b9ee91337242c7ec92f122de6780395331c82a686386b89043b55"
+    url = "https://github.com/JuliaBinaryWrappers/FLTK_jll.jl/releases/download/FLTK-v1.3.8+0/FLTK.v1.3.8.armv7l-linux-musleabihf.tar.gz"
+[[FLTK]]
+arch = "i686"
+git-tree-sha1 = "077c656fab02c16d9833aa93013ab122483f0297"
+libc = "glibc"
+os = "linux"
+
+    [[FLTK.download]]
+    sha256 = "41b0705ca2aedcb93f5719badad45f64b616f92679671829803ad3d69091c473"
+    url = "https://github.com/JuliaBinaryWrappers/FLTK_jll.jl/releases/download/FLTK-v1.3.8+0/FLTK.v1.3.8.i686-linux-gnu.tar.gz"
+[[FLTK]]
+arch = "i686"
+git-tree-sha1 = "6e74bf1affeca831fe8da03357670ca94cf45777"
+libc = "musl"
+os = "linux"
+
+    [[FLTK.download]]
+    sha256 = "3e57bac82dfb27ba1fcec0288c916f740daaa92e296703f45f5c4fb359d2d0d5"
+    url = "https://github.com/JuliaBinaryWrappers/FLTK_jll.jl/releases/download/FLTK-v1.3.8+0/FLTK.v1.3.8.i686-linux-musl.tar.gz"
+[[FLTK]]
+arch = "i686"
+git-tree-sha1 = "14af474f2c2430a33c94cf8a7fd49954a7f3108e"
+os = "windows"
+
+    [[FLTK.download]]
+    sha256 = "51083befcdb185a779436acfc868a57525315bdae77e492d8b9c8cc1ece1ad8a"
+    url = "https://github.com/JuliaBinaryWrappers/FLTK_jll.jl/releases/download/FLTK-v1.3.8+0/FLTK.v1.3.8.i686-w64-mingw32.tar.gz"
+[[FLTK]]
+arch = "powerpc64le"
+git-tree-sha1 = "9c58ff5c43b9d8584d888393d834d2e8f1d4db23"
+libc = "glibc"
+os = "linux"
+
+    [[FLTK.download]]
+    sha256 = "3d2fd98778c2e6d545d518c4220cad81b16edb830a7463cffb5cc9020a5578ba"
+    url = "https://github.com/JuliaBinaryWrappers/FLTK_jll.jl/releases/download/FLTK-v1.3.8+0/FLTK.v1.3.8.powerpc64le-linux-gnu.tar.gz"
+[[FLTK]]
+arch = "x86_64"
+git-tree-sha1 = "559a3a4a2fdd429761a4d92980fe3283271b3105"
+os = "macos"
+
+    [[FLTK.download]]
+    sha256 = "d478871400170bcd6c8854a895af6387141b5408ac73bdf5c9624e5a3c7101a8"
+    url = "https://github.com/JuliaBinaryWrappers/FLTK_jll.jl/releases/download/FLTK-v1.3.8+0/FLTK.v1.3.8.x86_64-apple-darwin.tar.gz"
+[[FLTK]]
+arch = "x86_64"
+git-tree-sha1 = "3246220a78ffdec756b50ec4a3fe4d355ae0e321"
+libc = "glibc"
+os = "linux"
+
+    [[FLTK.download]]
+    sha256 = "feaccb7c987dfd18afd6651268d4663df9243e8d9637fd6716bf4bdc3e7805c9"
+    url = "https://github.com/JuliaBinaryWrappers/FLTK_jll.jl/releases/download/FLTK-v1.3.8+0/FLTK.v1.3.8.x86_64-linux-gnu.tar.gz"
+[[FLTK]]
+arch = "x86_64"
+git-tree-sha1 = "ded10042df46b72b324d9286feed2a6b6a77b443"
+libc = "musl"
+os = "linux"
+
+    [[FLTK.download]]
+    sha256 = "70fb81847f8e2fa74b9111c8214c0454937452250fc1f3ada50a6c2c6a2f0fb5"
+    url = "https://github.com/JuliaBinaryWrappers/FLTK_jll.jl/releases/download/FLTK-v1.3.8+0/FLTK.v1.3.8.x86_64-linux-musl.tar.gz"
+[[FLTK]]
+arch = "x86_64"
+git-tree-sha1 = "5d17155077ce5d4cb579f8fe6d700513195a2b81"
+os = "freebsd"
+
+    [[FLTK.download]]
+    sha256 = "55dfdcb5dabd270127327e760dfea4a27f37e43f240ca488f30ce6f52ca30713"
+    url = "https://github.com/JuliaBinaryWrappers/FLTK_jll.jl/releases/download/FLTK-v1.3.8+0/FLTK.v1.3.8.x86_64-unknown-freebsd.tar.gz"
+[[FLTK]]
+arch = "x86_64"
+git-tree-sha1 = "af77750391f0872a3f54e42148b68afbacd28459"
+os = "windows"
+
+    [[FLTK.download]]
+    sha256 = "45da5b7c5012ca4e5cddd2dc3f618dae1ea25648d8edee904b4e05013a49ce35"
+    url = "https://github.com/JuliaBinaryWrappers/FLTK_jll.jl/releases/download/FLTK-v1.3.8+0/FLTK.v1.3.8.x86_64-w64-mingw32.tar.gz"
